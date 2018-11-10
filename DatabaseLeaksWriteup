@@ -30,8 +30,8 @@ where 	S depends on the gender
 	C is based on the other 12 digits
 For more information check https://ro.wikipedia.org/wiki/Cod_numeric_personal
 
-We bruteforced the missing data  in a script in python and noticed that the script gave us almost all passwords, but too far 
-too long to guess them.
+We bruteforced the missing data  in a script in python and noticed that the script gave us almost all passwords, but took far 
+too long to find them.
 In order to solve that problem, we wrote another code in C++ that matched the bruteforced hash with the given one and gave the 
 answer to the python script to validate it.
 
