@@ -18,7 +18,7 @@ Therefore, we now have the date of birth for every user.
 We also have the gender of each user from their names.(One can use a database to determine each gender, but since we only
 needed 20% of the passwords we assumed that every user whose name is ending in 'A' is a female and the others were males.)
 
-A CNP has the followinf format:
+A CNP has the following format:
 
 SYYMMDDJJNNNC
 
